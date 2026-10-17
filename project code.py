@@ -247,7 +247,6 @@ def Payment():
                     print("--------------------------------")
                     print("            Bill           ")
                     print("--------------------------------")
-
                     print("Name:", name[n],"\t\n Phone No:", phno[n], "\t\n Registration no:", reg[n], "\t")
                     print("\nBooking Date:", checkin[n], "\t\n Booking Time:", checkout[n], "\t")
                     print("\nRoom Type:", room[n], "\t\n Room Charges:", price[n], "\t")
