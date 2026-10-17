@@ -170,13 +170,13 @@ Thanks for your ratings!
 -----------------------------------------------------------------------------------------
 ```
 
-## Known Limitations
+## Limitations
 
 - Data is stored in memory only and is lost when the program closes.
 - Booking does not check for date/time conflicts between customers.
 - The rating function does not save the submitted rating.
 
-## Future Improvements
+## Possible Future Improvements
 
 - Save bookings to a file or database
 - Add date/time conflict checking
